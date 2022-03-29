@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malcolmrobertlord
+- 👋 Hi, I’m Malcolm Lord
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me:
