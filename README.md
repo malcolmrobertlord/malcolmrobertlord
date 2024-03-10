@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Malcolm Lord
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently practicing React, Python and C#.
+- 🌱 I’m currently practicing React, TypeScript, Python and C#.
 - 📫 How to reach me:
 Phone: 7735013758
-Email: malcolmrlord@gmail.com
+Email: malcolmrobertlord@gmail.com
 
-Check out my live projects:
-https://malcolmrobertlord.github.io/Lordle/#/
 
 
 <!---
